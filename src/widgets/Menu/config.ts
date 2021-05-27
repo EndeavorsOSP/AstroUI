@@ -10,11 +10,11 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.pastafinance.com",
+        href: "https://exchange.pancakeswap.finance/#/swap",
       },
       {
         label: "Liquidity",
-        href: "https://exchange.pastafinance.com/#/pool",
+        href: "https://exchange.pancakeswap.finance/#/pool",
       },
     ],
   },
@@ -51,7 +51,7 @@ export const links = [
     items: [
       {
         label: "Github",
-        href: "https://github.com/pastafinance/",
+        href: "https://github.com/AstroYield/",
       },
       {
         label: "Docs",
@@ -72,14 +72,14 @@ export const socials = [
     items: [
       {
         label: "Announcements",
-        href: "https://t.me/PastaFinanceAnnouncements",
+        href: "https://t.me/AstroYield",
       }
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/pastafinance",
+    href: "https://twitter.com/AstroYield",
   },
 ];
 
